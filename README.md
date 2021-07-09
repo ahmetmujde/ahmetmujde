@@ -13,6 +13,6 @@ Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmetmujde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-mujde/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/mujde_ahmet)  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmujde&layout=compact)](https://github.com/ahmetmujde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmujde&layout=compact&theme=tokyonight)](https://github.com/ahmetmujde/github-readme-stats)
