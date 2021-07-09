@@ -1,6 +1,6 @@
 ### Hi there 👋, Ahmet Mujde
 #### Computer Programer
-![Computer Programer](https://media-exp1.licdn.com/dms/image/C4D16AQFqJzrQLf8AKg/profile-displaybackgroundimage-shrink_200_800/0/1625846240379?e=1631145600&v=beta&t=atkXb5lrU---IasQxEzqszUFIs2HJi2kvr0JDUSt6fY)
+![Computer Programer](https://media-exp1.licdn.com/dms/image/C4D16AQGzhNsB_7HdEw/profile-displaybackgroundimage-shrink_200_800/0/1625861156593?e=1631145600&v=beta&t=bpHGpsBIUhKIhIzU_-R_ko_hHnokDfvU-XhcRYCBg20)
 
 I'm Ahmet from Turkey, and I'm computer programer. I really like software and of course programing languages, my best software language java because it's have good configuration. I will always learn new some things for software 🧑‍💻
 
