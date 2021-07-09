@@ -10,7 +10,7 @@ Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP
 - 🌱 I’m currently learning Java 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmetmujde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-mujde/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/mujde_ahmet)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='FFFFFF'>](https://github.com/ahmetmujde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-mujde/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/mujde_ahmet)  
 
 <details>
   <summary>
@@ -18,8 +18,8 @@ Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP
   </summary>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&bg_color=end">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmujde&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" height="190">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmujde&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" height="190">
   </p>
 
 </details>
