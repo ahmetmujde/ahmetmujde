@@ -7,7 +7,7 @@ I'm Ahmet from Turkey, and I'm computer programer. I really like software and of
 Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP 
 
 - 🔭 I’m currently working on HackerRank-Java and EasyPractisesInJava 
-- 👨‍💻 I’m currently learning Java 
+- 	:man_technologist: I’m currently learning Java 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde)](https://github.com/anuraghazra/github-readme-stats)
