@@ -18,8 +18,8 @@ Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP
   </summary>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" height="190">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmujde&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" height="190">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmujde&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" height="180">
   </p>
 
 </details>
