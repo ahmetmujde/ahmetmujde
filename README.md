@@ -14,6 +14,6 @@ Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP
 
 <details>
   <summary>My GitHub Stats</summary>
-  <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=tokyonight)</p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde&show_icons=true&theme=tokyonight)
 </details>
 
