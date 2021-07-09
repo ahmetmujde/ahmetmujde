@@ -7,15 +7,11 @@ I'm Ahmet from Turkey, and I'm computer programer. I really like software and of
 Skills: JAVA / C#/ SQL / DART / HTML / CSS / BOOTSRAP 
 
 - 🔭 I’m currently working on HackerRank-Java and EasyPractisesInJava 
-- 	:man_technologist: I’m currently learning Java 
+- 🌱 I’m currently learning Java 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmetmujde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-mujde/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/mujde_ahmet)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmujde)](https://github.com/anuraghazra/github-readme-stats)
