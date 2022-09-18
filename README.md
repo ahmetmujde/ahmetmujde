@@ -3,7 +3,7 @@
 
 I'm Ahmet from Turkey, and I'm computer programer. I really like software and of course programing languages, my best software language java because it's have good configuration. I will always learn new some things for software 🧑‍💻
 
-Skills: JAVA / Spring Boot / SQL / My Sql 
+Skills: Java / Spring Boot / Sql / Oop / Solid / Rest 
 - 🌱 I’m learning Java Spring Boot
 
 
